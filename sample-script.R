@@ -6,6 +6,7 @@
 #
 # Last Updated: [Replace with today's date]
 #--------------------------------------------------------------
+#Set the directory
 
 # read in the sample data -------------------------------------
 data <- read.csv('data.csv')
