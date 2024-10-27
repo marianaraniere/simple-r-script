@@ -7,6 +7,7 @@
 # Last Updated: [Replace with today's date]
 #--------------------------------------------------------------
 #Set the directory
+setwd('/Users/mrn29/Library/Mobile Documents/com~apple~CloudDocs/SMDM - Reproducibility course/simple-r-script')
 
 # read in the sample data -------------------------------------
 data <- read.csv('data.csv')
